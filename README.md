@@ -16,5 +16,7 @@ Question: You have a docker host (EC2 instance) which contains 6 docker containe
 
 ```
 No, By defult Docker Containers will not restart.
-If We want to restart docker Containers when server restart. At the time. when we create Docker Conatiners with this flag --restart=always. Continers will restart when server restart
+If We want to restart docker Containers when server restart. At the time.
+when we create Docker Conatiners with this flag --restart=always.
+Continers will restart when server restart
 ```
