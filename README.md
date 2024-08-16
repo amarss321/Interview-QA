@@ -28,4 +28,10 @@ What I know based on KPI the three KPIs that our team is currently monioring are
 - percentage of deployment.( When we deploying to production how many of them are failing)
 - meantime to failure recovery (If the service go down how fast our recovery)
 ```
+- What is difference between git fetch and git pull ?
+```
+I have not used git fetch a lot in my day to day work but what i know the difference between git fetch and git pull
+- git fetch will update matadata from remote repo to local repo. If we want to working dir we need to do git "merge"
+- If any updates on a remote repository, If we want to copy those changes from GitHub to both  local repository and into their working directory at the time we need to use git pull command.
+```
 
