@@ -54,4 +54,12 @@ Git log command displays the commit history for the current branch, starting wit
 - Jenkins master node is responsible for scheduling the jobs to Agent servers.
 - Agents are the ones that runs Scheduled jobs by jenkins master.
 
-``` 
+```
+- What do you handle securiy in jenkins.
+```
+better to ask a cross question, what kind of security are we speaking ?
+
+For jenkins login authentication we loging with my company mail
+```
+## Domain K8S
+
