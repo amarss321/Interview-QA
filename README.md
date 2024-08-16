@@ -45,5 +45,13 @@ I have not used git fetch a lot in my day to day work but what i know the differ
 ```
 Git log command displays the commit history for the current branch, starting with the most recent commit.
 ```
+## Domain Jenkins
+- What is a controller and agent in Jenkins ?
+```
+- role of a controller: Handling of scheduling jobs.
+- role of Agents: Run's the jenkins job assigned by the jenkins master node.
 
+- Jenkins master node is responsible for scheduling the jobs to Agent servers.
+- Agents are the ones that runs Scheduled jobs by jenkins master.
 
+``` 
