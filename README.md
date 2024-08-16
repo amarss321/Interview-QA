@@ -24,7 +24,8 @@ Continers will restart when server restart
 ```
 KIP - Key Performance Indicators
 What I know based on KPI the three KPIs that our team is currently monioring are
-- deployment frequency.
-- percentage of deployment.
-- meantime to failure recovery
+- deployment frequency. ( How we deploy successfully to producation)
+- percentage of deployment.( When we deploying to production how many of them are failing)
+- meantime to failure recovery (If the service go down how fat our recovery)
 ```
+
