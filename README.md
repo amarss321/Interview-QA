@@ -8,6 +8,11 @@ Using Cloud trail we can audit who is created resources and who deleted the reso
 Cloud trail will store log by defultly 90 days 
 If we want to more days we need to create cloud trail
 ```
+- What is AWS Aurora? What kind of RDS do your project use? Speak a bit DB failure with respect to Aurora
+```
+AWS Aurora is serverless. It will support both mysql and postgres.
+Amazon Aurora Automatically maintains six copies of your data across three Availability Zones(AZs) and will automatically attempt to recover your database in a healthy AZ with no data loss.
+```
 
 
 ## Domain Docker
