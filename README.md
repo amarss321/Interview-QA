@@ -4,8 +4,8 @@
 
 - Question: Explain the need to Cloudtrail in AWS? Do you use it in your current project? What are some con's with using cloud trail?
 ```
-Using Cloud trail we addit who is created resources and who deleted the resoures 
-Cloud trail will store log defultly 90 days 
+Using Cloud trail we can audit who is created resources and who deleted the resoures 
+Cloud trail will store log by defultly 90 days 
 If we want to more days we need to create cloud trail
 ```
 
