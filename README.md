@@ -62,4 +62,9 @@ better to ask a cross question, what kind of security are we speaking ?
 For jenkins login authentication we loging with my company mail
 ```
 ## Domain K8S
+- What is liveness probe ? Why it is used ? Also what's failure threshold ?
+```
+LivenessProbe is responsible for Checking the status of the pod after the deployment, It will check successfully spineed up or not.
+every pod will take some time to spin up. If we have any threshold valu. if pod will take above threshold value pod will fail.
+```
 
