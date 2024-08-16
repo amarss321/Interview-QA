@@ -16,7 +16,7 @@ If we want to more days we need to create cloud trail
 
 ```
 No, By defult Docker Containers will not restart.
-If We want to restart docker Containers when server restart. At the time.
+If We want to restart docker Containers whenever server restart. At the time.
 when we create Docker Conatiners with this flag --restart=always.
 Continers will restart when server restart
 ```
