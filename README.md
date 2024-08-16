@@ -20,3 +20,11 @@ If We want to restart docker Containers whenever server restart. At the time.
 we need to create Docker Conatiners with this flag --restart=always.
 Continers will restart when server restart
 ```
+- What are some key Devops KPIs that you monitor In your team today?
+```
+KIP - Key Performance Indicators
+What I know based on KPI the three KPIs that our team is currently monioring are
+- deployment frequency.
+- percentage of deployment.
+- meantime to failure recovery
+```
